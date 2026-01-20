@@ -1,0 +1,24 @@
+# macOS
+.DS_Store
+._*
+.AppleDouble
+.LSOverride
+
+# macOS resource forks
+**/._*
+
+# User-specific files
+*.suo
+
+# Visual Studio
+.vs
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
